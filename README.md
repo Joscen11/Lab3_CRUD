@@ -86,7 +86,7 @@ http://127.0.0.1:8000/
 ![Dashboard](assets/img/Dashboard_.png)
 
 ## 📦 Lista de productos/Crear nuevo
-![CreateNew](assets/img/CreateNew.png)
+![Create New](assets/img/Createnew.png)
 
 ## ✏️ Editar producto
 ![Editar](assets/img/Editar.png)
